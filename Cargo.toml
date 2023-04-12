@@ -1,6 +1,6 @@
 [package]
 name = "NEXMemory"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 readme = "README.md"
 description = "Easily read, and write into a process's memory."
