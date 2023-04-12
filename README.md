@@ -4,12 +4,12 @@
 # Getting Started
 Firstly, you need to import `NEXMemory` into your project, you can do this by writing the following below `[dependencies]` in `Cargo.toml`:
 ```
-NEXMemory = { version = "0.1.0", git = "https://github.com/NeutronX-dev/NEXMemory" }
+NEXMemory = "0.1.0"
 ```
 ## ALTERNATIVELY
 Running this in your terminal:
 ```
-cargo add --git https://github.com/NeutronX-dev/NEXMemory
+cargo add NEXMemory
 ```
 
 # Sample
