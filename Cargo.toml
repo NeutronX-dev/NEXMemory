@@ -2,5 +2,9 @@
 name = "NEXMemory"
 version = "0.1.0"
 edition = "2021"
+readme = "README.md"
+description = "Easily read, and write into a process's memory."
+repository = "https://github.com/NeutronX-dev/NEXMemory"
+license-file = "LICENSE"
 
 [dependencies]
